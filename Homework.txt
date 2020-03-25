@@ -1,4 +1,11 @@
 Hi
 Aleks
+<<<<<<< HEAD
 Hallo von Doris
 merge
+||||||| 06e3810
+Hallo von Doris
+=======
+Hallo von Doris
+Vincent
+>>>>>>> e9effe7b23927a8ba9e61a3213c978f2e396d221
